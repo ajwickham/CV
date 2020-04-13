@@ -1,0 +1,31 @@
+# Curriculum Vitae
+
+#### Its a web page of my CV, version 13/4/2020
+
+#### By Alan Wickham
+
+## Description
+
+This is a detailed description of the webpage giving as much detail as possible
+
+## Setup/Installation instructions
+
+* This is a great
+* place to list
+* setup instructions
+
+## GitHub Pages
+
+https://ajwickham.github.io/CV/index.html
+
+Leave nothing to chance
+
+## Known Bugs
+
+## Support and contact details
+
+## Technologies used
+
+### License
+
+Copyright (c) 2020 **List of contributors**
