@@ -13,12 +13,19 @@ p {
   line-height: 16px;
 }
 .info {
-  display: inline-box;
+  display: inline-block;
   font-family: Calibri;
   line-height: 16px;
   position: absolute;
   right: 0px;
   width: 700px
+}
+.info1 {
+  display: block;
+  position: absolute;
+  right: 0px;
+  width: 700px;
+  height: 100px;
 }
 ul {
   font-family: Calibri;
