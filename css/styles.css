@@ -1,14 +1,28 @@
 h1 {
+  font-family: Calibri;
   text-align: center;
 }
 h2 {
+  font-family: Calibri;
   font-style: italic;
   text-align: left;
 }
 p {
-  font-family: sans-serif;
+  font-family: Calibri;
+  font-size: 16px;
+  line-height: 16px;
+}
+.info {
+  display: inline-box;
+  font-family: Calibri;
+  line-height: 16px;
+  position: absolute;
+  right: 0px;
+  width: 700px
 }
 ul {
-  font-size: 20px;
-  line-height: 30px;
+  font-family: Calibri;
+  font-size: 16px;
+  line-height: 16px;
 }
+
