@@ -1,3 +1,5 @@
+
+
 h1 {
   font-family: Calibri;
   text-align: center;
@@ -7,29 +9,36 @@ h2 {
   font-style: italic;
   text-align: left;
 }
+h4 {
+  font-family: Calibri;
+  font-size: 16px;
+  text-align: left;
+  font-weight: bold;
+}
+h5 {
+  font-family: Calibri;
+  font-size: 16px;
+  text-align: left;
+  padding-top: 0;
+  padding-bottom: 0;
+} 
 p {
   font-family: Calibri;
   font-size: 16px;
   line-height: 16px;
-}
-.info {
-  display: inline-block;
-  font-family: Calibri;
-  line-height: 16px;
-  position: absolute;
-  right: 0px;
-  width: 700px
-}
-.info1 {
-  display: block;
-  position: absolute;
-  right: 0px;
-  width: 700px;
-  height: 100px;
 }
 ul {
   font-family: Calibri;
   font-size: 16px;
   line-height: 16px;
 }
-
+.row1
+  {
+  line-height: 1.1
+}
+.tabstop1 
+  {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  }
