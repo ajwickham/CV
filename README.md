@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a detailed description of the webpage giving as much detail as possible
+This is a simplistic version. The intent is to solidify the learing on HTML by reproducing the look of the Word version of the CV. Doubtless there are proper CSS sheets to do this coding more easily, and an online CV doesn't have the same format as a paper one. 
 
 ## Setup/Installation instructions
 
